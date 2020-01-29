@@ -18,14 +18,14 @@
 * [Zoom レベルを設定してみよう](./code/advanced03.md)
 
 ### API lecture Step
-* [Step 1. 変数を用いて制御してみよう 終了時のコード](./code/api01.md)
-* [Step 2. 変数を用いて制御してみよう 終了時のコード](./code/api02.md)
-* [Step 3. 変数を用いて制御してみよう 終了時のコード](./code/api03.md)
-* [Step 4. 変数を用いて制御してみよう 終了時のコード](./code/api04.md)
-* [Step 5. 変数を用いて制御してみよう 終了時のコード](./code/api05.md)
-* [Step 6. ボタンの位置をランダムに配置させてみよう 終了時のコード](./code/api06.md)
-* [Step 7. ボタンをたくさん表示させてみよう 終了時のコード](./code/api07.md)
-* [Step 8. ボタンを数の小さい順に押すと消えていくようにしよう 終了時のコード](./code/api08.md)
-* [Step 9. バグの修正 終了時のコード](./code/api09.md)
+* [Step 1. ボタンを設置する 終了時のコード](./code/api01.md)
+* [Step 2. ボタンを表示させる 終了時のコード](./code/api02.md)
+* [Step 3. APIにリクエストする準備 終了時のコード](./code/api03.md)
+* [Step 4. APIにリクエストする準備2 終了時のコード](./code/api04.md)
+* [Step 5. APIにリクエストする 終了時のコード](./code/api05.md)
+* [Step 6. APIの返答を処理する準備 終了時のコード](./code/api06.md)
+* [Step 7. APIの返答を取得する 終了時のコード](./code/api07.md)
+* [Step 8. レスポンスを整形する 終了時のコード](./code/api08.md)
+* [Step 9. 地図上に写真を表示させる 終了時のコード](./code/api09.md)
 
 

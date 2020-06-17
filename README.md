@@ -7,6 +7,7 @@
 ## Code
 
 ### Basic Step
+* [Step 0. 初期状態のコード](./code/step00.md)
 * [Step 1. Mapboxのファイルを読み込む 終了時のコード](./code/step01.md)
 * [Step 2. 地図を表示する領域を確保する 終了時のコード](./code/step02.md)
 * [Step 3. 表示させる地図の設定をする 終了時のコード](./code/step03.md)
